@@ -1,5 +1,6 @@
 *** Settings ***
 Resource    ../../credentials/credentials.robot
 
+
 *** Variables ***
-${BREED_ID}    19
+${BREED_ID}     19

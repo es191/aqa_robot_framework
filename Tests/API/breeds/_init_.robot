@@ -1,4 +1,6 @@
 *** Settings ***
-Resource         breeds_base.robot
-Documentation    API breeds tests
-Force Tags       @breeds
+Documentation       API breeds tests
+
+Resource            breeds_base.robot
+
+Force Tags          @breeds
